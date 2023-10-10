@@ -1,6 +1,18 @@
-* {
-    margin: 4;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
 }
-* {
-    margin: 0;
+
+.container {
+    max-width: 970px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+p {
+    color: #6A859C;
+    line-height: 1.8;
 }
